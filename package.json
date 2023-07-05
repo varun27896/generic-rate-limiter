@@ -1,0 +1,11 @@
+{
+  "name": "ratelimiter-generic",
+  "version": "1.0.0",
+  "description": "Generic Rate Limiter that implements token bucket algorithm, leaking bucket algorithm etc.",
+  "main": "ratelimiter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varunchillara",
+  "license": "ISC"
+}
